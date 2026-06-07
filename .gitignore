@@ -1,0 +1,17 @@
+# Carpetas de Python y Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Entornos virtuales
+env/
+venv/
+.env
+
+# Archivos de datos pesados (si decides guardarlos localmente en la carpeta data)
+*.csv
+*.xlsx
+
+# Carpetas
+/catboost_info/*
