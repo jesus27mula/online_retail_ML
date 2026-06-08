@@ -12,6 +12,7 @@ venv/
 # Archivos de datos pesados (si decides guardarlos localmente en la carpeta data)
 *.csv
 *.xlsx
+*.pptx
 
 # Carpetas
 /catboost_info/*
